@@ -40,3 +40,6 @@ The MSD example can be started as
 ```
 $ python3 scripts/MSD_training.py
 ```
+
+## License
+See the [LICENSE](/LICENSE) file for license rights and limitations (MIT).
